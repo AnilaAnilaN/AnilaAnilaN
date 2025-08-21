@@ -4,13 +4,10 @@
 
 ## About Me
 Thanks for visiting my profile! I'm Anila Nawaz. I have recently graduated in Computer Science from the Virtual University of Pakistan (CGPA: 3.79/4.00). I am expert in front-end and MERN Stack development.  
-I build responsive websites and full-stack web applications with clean code and user-focused interfaces. Check out my portfolio at: [anilaanilan.github.io/My-Portfolio/](https://anilaanilan.github.io/My-Portfolio/)  
+I build responsive websites and full-stack web applications with clean code and user-focused interfaces. 
 I am currently seeking internships or entry-level opportunities to enhance my MERN stack skills, gain professional experience in web application development, and contribute to meaningful projects with clean, efficient code.  
 I am good at strong problem-solving skills from academic projects, hands-on experience building full-stack applications, English fluency for seamless collaboration, and passion for learning new technologies.  
 📧 Reach me at: [anilanawaz531@gmail.com](mailto:anilanawaz531@gmail.com)
-
-### My Journey
-I transitioned from frontend development to full-stack JavaScript, drawn to the power and flexibility of the MERN stack. Based in Mandi Bahauddin, Punjab, Pakistan.
 
 ### Development Philosophy
 I believe in building applications that are performant, accessible, scalable, and maintainable.
