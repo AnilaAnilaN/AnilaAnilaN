@@ -59,7 +59,7 @@ I believe in building applications that are performant, accessible, scalable, an
 - **BS Computer Science**  
 Virtual University of Pakistan (2021 - 2025)  
 CGPA: 3.79/4.00 • Grade: A+  
-*Skills: Typing, Data Entry*
+*Skills: Typing, Data Entry, programming, communication skills, C++, C#, PHP, Java, HTML, CSS, JS, AIDA, Assembly Language, OOP, DSA, computer networks, Database *
 
 - **Intermediate/A Level (FSc pre-medical)**  
 Government Degree College for Women, Bosal Sukha (2018 - 2020)  
