@@ -136,7 +136,7 @@ Full Stack Developer with 2+ years building production-grade applications across
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle DB"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" alt="Oracle DB"/>
 <br/><sub><b>Oracle DB</b></sub>
 </td>
 <td align="center" width="96">
@@ -177,7 +177,7 @@ Full Stack Developer with 2+ years building production-grade applications across
 <br/><sub><b>Vercel</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
 <br/><sub><b>Render</b></sub>
 </td>
 </tr>
