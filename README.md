@@ -24,13 +24,11 @@
 
 ## About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&text=Full%20Stack%20Developer&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=MERN%20%C2%B7%20Spring%20Boot%20%C2%B7%20Oracle%20DB%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=14&descColor=a7f3d0&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<table>
-<tr>
-<td align="left" width="100%" style="background: linear-gradient(135deg, #0c1f0e, #0d2137); padding: 24px; border-radius: 12px;">
+</div>
 
 ```
   Name       Anila Nawaz
@@ -41,20 +39,7 @@
   Email      anilanawaz531@gmail.com
 ```
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-![About](https://img.shields.io/badge/Full%20Stack%20Developer-0c1f0e?style=for-the-badge&labelColor=1a472a&color=0c1f0e)
-
-Full Stack Developer with 2+ years building production-grade applications across the entire stack, including **React** + **Spring Boot APIs** + **Oracle Database schemas**. I care about clean architecture, real security (JWT, RBAC, BCrypt), and shipping things that actually hold up.
-
-</td>
-</tr>
-</table>
-
-</div>
+Full Stack Developer with 2+ years building production-grade applications across the entire stack, from **React UIs** to **Spring Boot APIs** to **Oracle Database schemas**. I care about clean architecture, real security (JWT, RBAC, BCrypt), and shipping things that actually hold up.
 
 ---
 
@@ -247,7 +232,7 @@ Full Stack Developer with 2+ years building production-grade applications across
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=Healthcare%20Management%20System&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=56&text=Healthcare%20Management%20System&fontSize=15&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -266,7 +251,7 @@ Full healthcare platform with OTP email auth via JavaMailSender, role-based acce
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=Patient%20Management%20System&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=56&text=Patient%20Management%20System&fontSize=15&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -290,7 +275,7 @@ Full CRUD app for patient records with a Spring Boot REST API handling all HTTP 
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=VibeCoding%20Dev%20Learning%20Platform&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=56&text=VibeCoding%20Dev%20Learning%20Platform&fontSize=15&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -302,12 +287,12 @@ Full CRUD app for patient records with a Spring Boot REST API handling all HTTP 
 
 Developer learning platform with dual auth (Google OAuth + email), tiered free/pro content delivery, and a full CMS covering coding prompts, blogs, guides, and video tutorials with personalized dashboards.
 
-[![Live](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square)](https://vibecoding.vercel.app)
+[![Live](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square)](https://vibecoding-taupe.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=Speechily%20AI%20Text%20to%20Speech&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=56&text=Speechily%20AI%20Text%20to%20Speech&fontSize=15&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -319,7 +304,7 @@ Developer learning platform with dual auth (Google OAuth + email), tiered free/p
 
 Multilingual TTS app supporting Punjabi, Urdu, Arabic, and English with 4 voice options. GroqSDK AI enhances scripts for natural-sounding speech output with Google OAuth authentication.
 
-[![Live](https://img.shields.io/badge/Live_Demo-E25C2A?style=flat-square)](https://speechily.vercel.app)
+[![Live](https://img.shields.io/badge/Live_Demo-E25C2A?style=flat-square)](https://speechily-me.vercel.app/)
 
 </td>
 </tr>
@@ -331,7 +316,7 @@ Multilingual TTS app supporting Punjabi, Urdu, Arabic, and English with 4 voice 
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=TaskMate%20Task%20Management&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=56&text=TaskMate%20Task%20Management&fontSize=15&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -342,13 +327,13 @@ Multilingual TTS app supporting Punjabi, Urdu, Arabic, and English with 4 voice 
 
 SSR task management with real-time live timers, task categorization, priority levels, and a dual notification system powered by email and in-app background job processing.
 
-[![Live](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square)](https://taskmate-app.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-6DB33F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnilaAnilaN)
+[![Live](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square)](https://task-mate-next-js-bmsf.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-6DB33F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnilaAnilaN/TaskMate-Webapp)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=Real%20Time%20Chat%20Application&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=56&text=Real%20Time%20Chat%20Application&fontSize=15&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -360,7 +345,7 @@ SSR task management with real-time live timers, task categorization, priority le
 
 MERN messaging platform with Socket.IO for instant bidirectional communication, online status indicators, and a scalable MongoDB schema with indexing for performant message retrieval.
 
-[![Live](https://img.shields.io/badge/Live_Demo-6DB33F?style=flat-square)](https://chatapp.vercel.app)
+[![Live](https://img.shields.io/badge/Live_Demo-6DB33F?style=flat-square)](https://real-time-chat-app-fo6x.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6DB33F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnilaAnilaN)
 
 </td>
@@ -373,7 +358,7 @@ MERN messaging platform with Socket.IO for instant bidirectional communication, 
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=PicoForge%20Startup%20Incubator&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=56&text=PicoForge%20Startup%20Incubator&fontSize=15&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -382,12 +367,12 @@ MERN messaging platform with Socket.IO for instant bidirectional communication, 
 
 Contributed authentication system (login + signup) and a reusable UI component library. Designed a responsive home page following Git best practices including branching strategies and pull request workflows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-6DB33F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnilaAnilaN)
+[![GitHub](https://img.shields.io/badge/GitHub-6DB33F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnilaAnilaN/PicoForge---micro-startup-incubator)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=Student%20Task%20Planner%20UI%20Design&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=56&text=Student%20Task%20Planner%20UI%20Design&fontSize=15&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -395,7 +380,7 @@ Contributed authentication system (login + signup) and a reusable UI component l
 
 Comprehensive task planner interface with calendar views, priority levels, and deadline tracking optimized for student workflows. Conducted usability testing and iterated on interface improvements based on feedback.
 
-[![Figma](https://img.shields.io/badge/View_Design-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com)
+[![Figma](https://img.shields.io/badge/View_Design-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/Ghi0QeOAriiOz6s1Yl7yCm/Student-Task-Planner-Usability-Test_2)
 
 </td>
 </tr>
@@ -581,7 +566,7 @@ Professional spoken English proficiency for workplace communication
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnilaAnilaN&show_icons=true&theme=github_dark&bg_color=0c1410&title_color=6DB33F&icon_color=61DAFB&text_color=c8e6c9&border_color=1a472a&border_radius=12&count_private=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnilaAnilaN&show_icons=true&theme=github_dark&bg_color=0c1410&title_color=6DB33F&icon_color=61DAFB&text_color=c8e6c9&border_color=1a472a&border_radius=12&count_private=true" width="100%"/>
 
 <br/><br/>
 
@@ -609,18 +594,28 @@ I create educational content focused on JavaScript and web development fundament
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-![Tutorial 1](https://img.shields.io/badge/React%20List%20Rendering%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=48&text=React%20List%20Rendering%20Tutorial&fontSize=14&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-[![Watch](https://img.shields.io/badge/Watch%20Now-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://youtube.com](https://www.youtube.com/watch?v=nWrOSB9YdUI&feature=youtu.be))
+<br/>
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/nWrOSB9YdUI)
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-![Tutorial 2](https://img.shields.io/badge/GitHub%20Profile%20README%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C174%2C92&height=48&text=GitHub%20Profile%20README%20Tutorial&fontSize=14&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-[![Watch](https://img.shields.io/badge/Watch%20Now-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://youtube.com](https://youtu.be/p4YBjrOb97w))
+<br/>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/p4YBjrOb97w)
 
 </td>
 </tr>
